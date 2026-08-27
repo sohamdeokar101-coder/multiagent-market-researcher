@@ -15,14 +15,6 @@ An interactive multi-agent market research assistant built using **LangGraph**, 
 - [Install](#install)
 - [Usage](#usage)
 - [Generator](#generator)
-- [Badge](#badge)
-- [Example READMEs](#example-readmes)
-- [Related Efforts](#related-efforts)
-- [Maintainers](#maintainers)
-- [Contributing](#contributing)
-- [Contributors](#contributors)
-- [License](#license)
-
 ---
 
 ## Background
